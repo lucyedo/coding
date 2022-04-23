@@ -1,0 +1,23 @@
+# coding
+EDA and problem solving analytics
+Project: Regression, Used Car Price
+Final Submission: April 21, 2022
+
+Executive Summary
+•	Key Takeaways: 
+o	Power, Year and Engine are the features of greatest importance when determining new car price.
+•	Recommendations:
+o	We will use the Random Forest classification method.
+o	We will embed algorithm into client website.
+•	Problem and Solution Summary:
+o	Client is unable to accurately price cars according to care features including year, power, engine, etc.
+o	Through data cleaning, processing, and engineering, we were able to effectively create a model at 89% accuracy on the test model. Used cars will be matched to market at the statistical point of 89%.
+•	Implementation:
+o	We will embed the algorithmic model to the client website. This will allow us to integrate with their current digital tools to sync data and ensure consistent data capture across customer journey.
+o	The client faced trouble capturing new price sales. Recommend automating process through digital app that inputs sale price at point of sale. This will allow us to improve training models with accurate information.
+o	We will repeat this with Mileage, Engine, and Power.
+o	Utilize survey system after each visit for qualitative user data.
+•	Outcomes:
+o	Competitive and accurate pricing at market rate
+o	Market knowledge and geographic location price sensitivity
+o	Reduce loss of profit
